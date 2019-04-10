@@ -1,2 +1,0 @@
-# JuegoSnakeTerminado
-Proyecto programación
